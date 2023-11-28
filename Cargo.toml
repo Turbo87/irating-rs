@@ -1,6 +1,10 @@
 [package]
 name = "irating"
 version = "0.1.0"
+description = "Estimate iRacing iRating changes"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/Turbo87/irating-rs"
+keywords = ["iracing", "irating", "elo"]
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
