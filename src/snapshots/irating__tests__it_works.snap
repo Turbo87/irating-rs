@@ -1,0 +1,286 @@
+---
+source: src/lib.rs
+expression: result
+---
+[
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 1",
+            finish_rank: 1,
+            start_irating: 7526,
+            started: true,
+        },
+        irating_change: 17.63672,
+        new_irating: 7544,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 2",
+            finish_rank: 2,
+            start_irating: 5982,
+            started: true,
+        },
+        irating_change: 25.833923,
+        new_irating: 6008,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 3",
+            finish_rank: 3,
+            start_irating: 5463,
+            started: true,
+        },
+        irating_change: 25.432884,
+        new_irating: 5488,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 4",
+            finish_rank: 4,
+            start_irating: 4279,
+            started: true,
+        },
+        irating_change: 37.92791,
+        new_irating: 4317,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 5",
+            finish_rank: 5,
+            start_irating: 4137,
+            started: true,
+        },
+        irating_change: 33.394478,
+        new_irating: 4170,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 6",
+            finish_rank: 6,
+            start_irating: 4044,
+            started: true,
+        },
+        irating_change: 27.948332,
+        new_irating: 4072,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 7",
+            finish_rank: 7,
+            start_irating: 3891,
+            started: true,
+        },
+        irating_change: 23.814116,
+        new_irating: 3915,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 8",
+            finish_rank: 8,
+            start_irating: 3612,
+            started: true,
+        },
+        irating_change: 22.626814,
+        new_irating: 3635,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 9",
+            finish_rank: 9,
+            start_irating: 3147,
+            started: true,
+        },
+        irating_change: 26.485985,
+        new_irating: 3173,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 10",
+            finish_rank: 10,
+            start_irating: 2823,
+            started: true,
+        },
+        irating_change: 27.702335,
+        new_irating: 2851,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 11",
+            finish_rank: 11,
+            start_irating: 2715,
+            started: true,
+        },
+        irating_change: 23.36419,
+        new_irating: 2738,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 12",
+            finish_rank: 12,
+            start_irating: 2603,
+            started: true,
+        },
+        irating_change: 19.21653,
+        new_irating: 2622,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 13",
+            finish_rank: 13,
+            start_irating: 2512,
+            started: true,
+        },
+        irating_change: 14.53251,
+        new_irating: 2527,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 14",
+            finish_rank: 14,
+            start_irating: 2352,
+            started: false,
+        },
+        irating_change: 10.437519,
+        new_irating: 2362,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 15",
+            finish_rank: 15,
+            start_irating: 2227,
+            started: true,
+        },
+        irating_change: 8.5288105,
+        new_irating: 2236,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 16",
+            finish_rank: 16,
+            start_irating: 2195,
+            started: true,
+        },
+        irating_change: 2.2037997,
+        new_irating: 2197,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 17",
+            finish_rank: 17,
+            start_irating: 2166,
+            started: true,
+        },
+        irating_change: -4.2093577,
+        new_irating: 2162,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 18",
+            finish_rank: 18,
+            start_irating: 2089,
+            started: true,
+        },
+        irating_change: -9.06982,
+        new_irating: 2080,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 19",
+            finish_rank: 19,
+            start_irating: 1773,
+            started: true,
+        },
+        irating_change: -5.7882223,
+        new_irating: 1767,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 20",
+            finish_rank: 20,
+            start_irating: 1772,
+            started: true,
+        },
+        irating_change: -13.086736,
+        new_irating: 1759,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 21",
+            finish_rank: 21,
+            start_irating: 1752,
+            started: true,
+        },
+        irating_change: -19.722021,
+        new_irating: 1732,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 22",
+            finish_rank: 22,
+            start_irating: 1748,
+            started: true,
+        },
+        irating_change: -26.915356,
+        new_irating: 1721,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 23",
+            finish_rank: 23,
+            start_irating: 1705,
+            started: true,
+        },
+        irating_change: -32.73568,
+        new_irating: 1672,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 24",
+            finish_rank: 24,
+            start_irating: 1662,
+            started: true,
+        },
+        irating_change: -38.54108,
+        new_irating: 1623,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 25",
+            finish_rank: 25,
+            start_irating: 1622,
+            started: true,
+        },
+        irating_change: -44.439545,
+        new_irating: 1578,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 26",
+            finish_rank: 26,
+            start_irating: 1537,
+            started: true,
+        },
+        irating_change: -48.679874,
+        new_irating: 1488,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 27",
+            finish_rank: 27,
+            start_irating: 1464,
+            started: true,
+        },
+        irating_change: -53.308353,
+        new_irating: 1411,
+    },
+    CalculationResult {
+        race_result: RaceResult {
+            driver: "Driver 28",
+            finish_rank: 28,
+            start_irating: 1203,
+            started: true,
+        },
+        irating_change: -50.590836,
+        new_irating: 1152,
+    },
+]
